@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# TO_DO_APP 
+## it's a web app to help you to organize tasks and finish it just in time
+
+this project  is a demo its have 2 pages 
+
+* create a task 
+* add time and type of task
+* options if  task priority
+* second-page view the task
+* you can fetch the task or delete it 
+##
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
