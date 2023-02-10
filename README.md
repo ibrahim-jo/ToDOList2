@@ -10,6 +10,22 @@ this project  is a demo its have 2 pages
 * you can fetch the task or delete it 
 ##
 
+##
+### deafult page 
+
+![Screen Shot 2023-02-10 at 22 13 46](https://user-images.githubusercontent.com/25065262/218190031-6132cd6a-bc75-46ad-9e28-32c32ad47e90.png)
+### Add tasks
+![Screen Shot 2023-02-10 at 22 14 45](https://user-images.githubusercontent.com/25065262/218190034-75778ec7-7cff-4f5e-9366-671e6d4f3be5.png)
+### view page
+![Screen Shot 2023-02-10 at 22 15 05](https://user-images.githubusercontent.com/25065262/218190037-e584d9bb-9504-43c5-8752-500a52e8deca.png)
+### Finish tasks
+![Screen Shot 2023-02-10 at 22 15 14](https://user-images.githubusercontent.com/25065262/218190039-a9285299-1911-465f-8e43-a054d4d07c39.png)
+### Delete tasks
+![Screen Shot 2023-02-10 at 22 15 23](https://user-images.githubusercontent.com/25065262/218190040-88fefc04-9020-4dd6-9f4c-631733835af0.png)
+##
+
+##
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
